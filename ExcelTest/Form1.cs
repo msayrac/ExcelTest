@@ -43,11 +43,7 @@ namespace ExcelTest
 
 			command.ExecuteNonQuery();
 			connection.Close();
-
 			listele();
-
-
-
 		}
 	}
 }
